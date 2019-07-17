@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{00B918C7-317A-2688-1FB9-4B46B1A0FEFC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RoundManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="34" Column="1" />
+      <File FileName="../Survival Game/Assets/Scripts/PlayerController.cs" Line="130" Column="49" />
+      <File FileName="Assets/Scripts/RoundManager.cs" Line="7" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SW Festival Proto" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RoundManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2d71ddd5-3dab-4e49-bcbd-d2d900d8b040" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
