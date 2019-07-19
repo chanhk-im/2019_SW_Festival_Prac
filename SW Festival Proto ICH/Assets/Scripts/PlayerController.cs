@@ -6,10 +6,12 @@ public class PlayerController : MonoBehaviour
 {
     public float velocity;
 
+    private Rigidbody rb;
+
 
     void Start()
     {
-
+        rb = GetComponent<Rigidbody>();
     }
 
 
@@ -26,9 +28,9 @@ public class PlayerController : MonoBehaviour
         float _movingX = Input.GetAxisRaw("Horizontal");
         float _movingY = Input.GetAxisRaw("Vertical");
 
-        Vector2 _velocityVector = new Vector2(_movingX * velocity, _movingY * velocity) * Time.deltaTime;
+        Vector2 _velocityVector = new Vector2(_movingX * velocity, _movingY * velocity);
 
-        transform.position = transform.position + new Vector3(_velocityVector.x, _velocityVector.y, transform.position.z);
+        rb.velocity = _velocityVector;
     }
 
 
