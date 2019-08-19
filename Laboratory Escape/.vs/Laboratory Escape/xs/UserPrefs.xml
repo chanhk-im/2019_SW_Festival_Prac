@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BEAA5103-B49B-CC57-13B8-BACFD9988B6E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SoundManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharcterMoving.cs" Line="228" Column="1" />
+      <File FileName="Assets/Scripts/BackgroundManager.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="30" Column="21" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="36" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratory Escape" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SoundManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f574c1de-4e03-422f-88cb-c6c7c37c566b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
