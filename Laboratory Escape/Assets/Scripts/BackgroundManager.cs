@@ -18,6 +18,7 @@ public class BackgroundManager : MonoBehaviour
     void Update()
     {
         ExhustedOnOff();
+        //test
     }
 
 

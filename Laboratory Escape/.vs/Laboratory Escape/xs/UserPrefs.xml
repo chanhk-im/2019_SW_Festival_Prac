@@ -1,18 +1,23 @@
-﻿<Properties StartupConfiguration="{BEAA5103-B49B-CC57-13B8-BACFD9988B6E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SoundManager.cs">
+﻿<Properties StartupConfiguration="{7B3EB373-07AD-505F-FAA1-42F4CB18BCE2}|단위 테스트">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharcterMoving.cs">
     <Files>
-      <File FileName="Assets/Scripts/CharcterMoving.cs" Line="228" Column="1" />
-      <File FileName="Assets/Scripts/BackgroundManager.cs" Line="8" Column="33" />
-      <File FileName="Assets/Scripts/SoundManager.cs" Line="30" Column="21" />
-      <File FileName="Assets/Scripts/EnemyManager.cs" Line="36" Column="28" />
+      <File FileName="Assets/Scripts/BackgroundManager.cs" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" />
+      <File FileName="Assets/Scripts/get_item.cs" />
+      <File FileName="Assets/Scripts/get_item_flash.cs" Line="58" Column="1" />
+      <File FileName="Assets/Scripts/on_off_item.cs" />
+      <File FileName="Assets/Scripts/CharcterMoving.cs" Line="93" Column="17" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Laboratory Escape" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="SoundManager.cs" selected="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="CharcterMoving.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -20,9 +25,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f574c1de-4e03-422f-88cb-c6c7c37c566b" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61973e94-88e9-4c6a-9371-90106ea450f1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

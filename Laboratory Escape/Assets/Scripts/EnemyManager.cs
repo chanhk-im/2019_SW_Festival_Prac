@@ -20,7 +20,6 @@ public class EnemyManager : MonoBehaviour
     void Update()
     {
         distance = Vector3.Distance(thePlayer.transform.position, transform.position);
-        Debug.Log(distance);
 
         NearCheck();
     }
